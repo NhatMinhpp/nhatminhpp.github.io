@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              Quả táo tàu Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-#baseurl:            "/startbootstrap-clean-blog-jekyll"
-#url:                "https://startbootstrap.github.io"
+#baseurl:            "/blogs"
+#url:                "https://nhatminhpp.github.io/"
 
 # Social Profiles
 twitter_username:   SBootstrap
